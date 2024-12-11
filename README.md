@@ -1,2 +1,2 @@
 # Internship-Projects
-This projects are completed in Internship Program at I2E Consulting
+This practice projects are completed in Internship Program at I2E Consulting.
