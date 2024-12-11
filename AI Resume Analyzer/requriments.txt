@@ -1,0 +1,8 @@
+PyPDF2
+os
+pandas
+numpy
+streamlit
+dotenv
+warnings
+spacy
